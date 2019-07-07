@@ -1,0 +1,10 @@
+Hello Everyone this repository is created to share with you all my journey of learning C++ from scratch moving towards Data Structures and Algorithms.
+And then after that starting my journey as a Compititive Programming in C++.
+Each and Every day I will be here sharing my journey with you guys and giving you all the progress report that I will be making.
+
+
+
+
+Completely new and having just a basic vague idea about programming and data structures which can either be concluded as complete Zero.
+Introducing myself I am a BCA(2018-2012) student persuing my undergraduation from IP University ,Delhi.
+I completed my 12th in PCM as majors.
